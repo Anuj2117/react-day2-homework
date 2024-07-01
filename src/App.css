@@ -1,0 +1,22 @@
+body{
+  background-color: lightblue;
+}
+.wrapper{
+  border: 1px solid;
+  border-radius: 20px;
+  width: 50%;
+  padding:20px;
+  margin-left: 22%;
+  margin-top:6%;
+}
+h1{
+  font-size: 40px;
+}
+p{
+  margin:25px;
+  font-size: 20px;
+}
+a{
+  font-size: 20px;
+  margin:10px;
+}
